@@ -1,1 +1,1 @@
-Vim config
+# The productivity paradox >-<
