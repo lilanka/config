@@ -1,1 +1,1 @@
-# The productivity paradox >-<
+The productivity paradox
