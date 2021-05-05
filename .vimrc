@@ -5,6 +5,6 @@ set expandtab
 filetype indent on
 set number
 set hlsearch
-colorscheme peachpuff
 set ruler
-highlight Comment ctermfg=green
+colorscheme peachpuff
+highlight Comment ctermfg=green 
