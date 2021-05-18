@@ -6,5 +6,5 @@ filetype indent on
 set number
 set hlsearch
 set ruler
-colorscheme peachpuff
+colorscheme slate 
 highlight Comment ctermfg=green 
